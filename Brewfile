@@ -1,51 +1,59 @@
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/cask-drivers"
-tap "homebrew/cask-versions"
-tap "homebrew/core"
-brew "anyenv"
-brew "deno"
+brew "awscli"
 brew "git"
-brew "graphviz"
-brew "grpcurl"
 brew "mas"
-cask "alfred"
+brew "mise"
 cask "alt-tab"
 cask "appcleaner"
+cask "arc"
 cask "bartender"
+cask "battery"
 cask "bettertouchtool"
 cask "docker"
-cask "fork"
+cask "ghostty"
 cask "github"
 cask "google-chrome"
-cask "google-drive"
-cask "google-drive-file-stream"
-cask "google-japanese-ime"
 cask "iina"
 cask "iterm2"
 cask "jetbrains-toolbox"
 cask "karabiner-elements"
 cask "keka"
-cask "kindle"
-cask "logitech-options"
 cask "microsoft-auto-update"
 cask "microsoft-office"
-cask "numi"
-cask "qfinder-pro"
-cask "sequel-ace"
-cask "skitch"
+cask "pgadmin4"
+cask "popclip"
+cask "raycast"
 cask "slack"
-cask "steam"
 cask "visual-studio-code"
 mas "Affinity Designer", id: 824171161
 mas "Affinity Photo", id: 824183456
 mas "Affinity Publisher", id: 881418622
-mas "BetterSnapTool", id: 417375580
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
 mas "Keepa - Price Tracker", id: 1533805339
+mas "Keynote", id: 409183694
+mas "Kindle", id: 302584613
 mas "LINE", id: 539883307
-mas "Magnet", id: 441258766
-mas "PopClip", id: 445189367
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "Reeder", id: 1529448980
-mas "Tweetbot", id: 1384080005
 mas "Yoink", id: 457622435
-mas "宛名職人V25M", id: 1364345957
+mas "宛名職人V29M", id: 1609243951
+vscode "aaron-bond.better-comments"
+vscode "alefragnani.project-manager"
+vscode "christian-kohler.path-intellisense"
+vscode "donjayamanne.githistory"
+vscode "editorconfig.editorconfig"
+vscode "github.copilot"
+vscode "github.copilot-chat"
+vscode "gruntfuggly.todo-tree"
+vscode "mhutchie.git-graph"
+vscode "ms-azuretools.vscode-docker"
+vscode "ms-ceintl.vscode-language-pack-ja"
+vscode "ms-vscode-remote.remote-containers"
+vscode "ritwickdey.liveserver"
+vscode "tonybaloney.vscode-pets"
+vscode "usernamehw.errorlens"
+vscode "visualstudioexptteam.intellicode-api-usage-examples"
+vscode "visualstudioexptteam.vscodeintellicode"
+vscode "vscode-icons-team.vscode-icons"
